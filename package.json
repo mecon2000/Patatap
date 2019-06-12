@@ -1,0 +1,26 @@
+{
+  "name": "patatap",
+  "version": "1.0.0",
+  "description": "just for learning JS",
+  "main": "index.html",
+  "dependencies": {
+    "paper": "^0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mecon2000/Patatap.git"
+  },
+  "keywords": [
+    "JS"
+  ],
+  "author": "Rong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mecon2000/Patatap/issues"
+  },
+  "homepage": "https://github.com/mecon2000/Patatap#readme"
+}
