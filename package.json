@@ -4,6 +4,7 @@
   "description": "just for learning JS",
   "main": "index.html",
   "dependencies": {
+    "howler": "^2.1.2",
     "paper": "^0.12.1"
   },
   "devDependencies": {},
